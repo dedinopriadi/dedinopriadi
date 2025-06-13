@@ -43,6 +43,18 @@ Berikut adalah beberapa teknologi yang saya kuasai dan gunakan secara aktif dala
 
 Mari terhubung dan diskusikan teknologi, proyek, atau apa pun yang berhubungan dengan dunia IT!
 
+<p>
+  <a href="mailto:dedinopriadi5@gmail.com" target="_blank">
+    <img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="Email" />
+  </a>
+  <a href="[https://www.linkedin.com/in/dedi-nopriadi/](https://www.linkedin.com/in/dedi-nopriadi/)" target="_blank">
+    <img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn" />
+  </a>
+  <a href="[https://instagram.com/nopriadin](https://instagram.com/nopriadin)" target="_blank">
+    <img src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)" alt="Instagram" />
+  </a>
+</p>
+
 ### 🙏 Apresiasi & Dukungan
 
 Jika karya atau kontribusi saya telah membantu Anda, dukungan kecil sangat berarti untuk terus berkarya dan berbagi!
