@@ -50,3 +50,4 @@ Mari terhubung dan diskusikan teknologi, proyek, atau apa pun yang berhubungan d
 ### 🙏 Apresiasi & Dukungan
 
 Jika karya atau kontribusi saya telah membantu Anda, dukungan kecil sangat berarti untuk terus berkarya dan berbagi!
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J61GEUBX)
